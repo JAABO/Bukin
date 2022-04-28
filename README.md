@@ -51,6 +51,8 @@ Website doesn’t render properly.
 
 This is where I am stuck.
 
+Got it. Will take a look 
+
 
 
 
